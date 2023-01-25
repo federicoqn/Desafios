@@ -1,3 +1,5 @@
 Hola soy un archivo y me cree para el desafio 1
 
 Lunes - cambios finalizados para el proyecto.
+
+getAllAccounts()
